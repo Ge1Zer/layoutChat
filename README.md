@@ -1,5 +1,3 @@
-[linkToSait]:https://ge1zer.github.io/pagetokio
-
 #  Layout Chat
 
 
